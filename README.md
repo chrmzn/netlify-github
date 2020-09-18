@@ -13,3 +13,13 @@ At Netlify, we use a very common GitHub issues workflow with code changes in Pul
   * Issues
 * We are only able to use the GitHub Singer Tap for access to the GitHub API (restricting us from the full API)
 * We can do some data transformation before inserting to Database (to better fufill the model)
+
+## Pull Requests
+
+![](PR_Model.png)
+
+## Issues
+
+This could be extended to include Teams too
+
+![](Issue_Model.png)
